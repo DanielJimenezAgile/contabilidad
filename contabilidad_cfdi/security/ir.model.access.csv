@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_account_move_cfdi33,access.account.move.cfdi33,model_account_move_cfdi33,account.group_account_invoice,1,1,1,1
+access_catalogos_pais_diot,access_catalogos_pais_diot,model_catalogos_pais_diot,base.group_user,1,1,1,1
+access_report_trial_balance_contabilidad_cfdi,access.report.trial.balance.contabilidad.cfdi,model_report_trial_balance_contabilidad_cfdi,,1,1,1,1
